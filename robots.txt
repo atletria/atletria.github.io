@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atletria.github.io/sitemap.html.gz
+Sitemap: https://atletria.github.io/app/sitemap.html.gz
+Sitemap: https://atletria.github.io/assets/sitemap.html.gz
+Sitemap: https://atletria.github.io/css/sitemap.html.gz
+Sitemap: https://atletria.github.io/includes/sitemap.html.gz
+Sitemap: https://atletria.github.io/item/sitemap.html.gz
+Sitemap: https://atletria.github.io/src/sitemap.html.gz
